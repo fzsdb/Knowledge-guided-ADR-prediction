@@ -10,6 +10,7 @@ This repository implements a hierarchical and relation-aware framework for adver
 - [Repository Structure](#repository-structure)
 - [Requirements](#requirements)
 - [Installation](#installation)
+- [File Descriptions](#file-descriptions)
 - [Data Preparation](#data-preparation)
 - [Running the Code](#running-the-code)
 - [Training Output](#training-output)
@@ -86,11 +87,38 @@ pip install torch-geometric
 pip install -r requirements.txt
 ```
 
+
+---
+## File Descriptions
+> **Note:** `Standard Setting/` is the complete, self-contained implementation. `AAKD/` only contains files specific to the KDS setting — any shared functionality (molecular features, utilities, etc.) lives in `Standard Setting/` and is reused by both.
+ 
+**`graph_construction.py`**
+Constructs two relational knowledge graphs: (1) an ADR graph using the four-level ADReCS hierarchy, and (2) an ATC graph using the five-level ATC hierarchy. Both graphs include hierarchical edges (child-of, parent-of, sibling-of) and co-occurrence edges filtered by a accard similarity threshold. 
+ 
+**`models_(file or standard).py`**
+Defines all model components:
+- `MoleculeGIN` — Graph Isomorphism Network for extracting molecular topology features from atom graphs
+- `WeightedRGCNConv` / `WeightedADRRGCN` — Relation-aware graph convolution layers used for both the ADR and ATC knowledge graphs
+- `MoE_Expert` — A single MLP expert used in both branches of the Dual-MoE
+- `DynamicPromptCrossAttention` — Cross-attention module with a learnable prompt pool for drug–ADR interaction modeling
+- `DualMoE` — The full Dual Mixture-of-Experts module combining ATC-specific intra-experts and top-K sparse inter-experts
+
+In the NDS setting, `DualMoE_CDAN` mirrors the KDS `DualMoE` but is used within the CDAN-aware wrapper.
+
+**`cdan_modules.py`**
+Implements the two components needed for Conditional Domain Adversarial Networks: `GradientReversalFunction` (a custom autograd function that negates gradients during backpropagation) and `ConditionalDomainDiscriminator` (an MLP that classifies source vs. target domain using the outer product of feature representations and class predictions).
+ 
+**`molecular_features.py`**
+Provides two standalone utilities: `extract_morgan_fingerprints()` computes 1024-bit Morgan fingerprints (radius 2) for a list of SMILES using RDKit and returns a GPU tensor; `build_molecule_graphs()` converts SMILES to atom-level graphs with 46-dimensional node features (atom type, degree, hydrogens, hybridization, aromaticity, valence, chirality) for use by the GIN encoder.
+ 
+**`utils_file.py`**
+Two small helper functions: `set_seed()` sets random seeds for Python, NumPy, and PyTorch (including CUDA) to ensure reproducibility; `count_parameters()` returns the total number of trainable parameters in a model.
+
 ---
 
 ## Data Preparation
 
-> **How to generate MolFormer embeddings:** Use the pretrained MolFormer model from the official [IBM/molformer](https://github.com/IBM/molformer) GitHub repository. Pre-trained checkpoints (~100M molecules) can be downloaded from [ibm.box.com/v/MoLFormer-data](https://ibm.box.com/v/MoLFormer-data).
+**How to generate MolFormer embeddings:** Use the pretrained MolFormer model from the official [IBM/molformer](https://github.com/IBM/molformer) GitHub repository. Pre-trained checkpoints (~100M molecules) can be downloaded from [ibm.box.com/v/MoLFormer-data](https://ibm.box.com/v/MoLFormer-data).
 
 ---
 
@@ -118,8 +146,11 @@ After training completes, learned graph embeddings are exported:
 - `adr_embeddings_learned.csv` — R-GCN embeddings for ADR nodes
 - `atc_embeddings_learned.csv` — R-GCN embeddings for ATC level-5 nodes
 
+
+ 
 ---
 
+ 
 ## Troubleshooting
 
 **`Warning: Invalid ATC code format: ...`**
