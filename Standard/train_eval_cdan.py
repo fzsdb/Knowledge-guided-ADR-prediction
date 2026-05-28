@@ -48,9 +48,10 @@ def train(fingerprints, adr_graph, adr_node2idx, index_to_adrecs, atc_graph, atc
                 target_data = next(target_iter)
             
             index_drug_t, index_side_t, _ = [d.to(device) for d in target_data]
-            batch_fp_t = fingerprints[index_drug_t].to(device)
-            
-            _, _, _, domain_pred_t = model(batch_fp_t, index_side_t, index_drug_t, device)
+            batch_fp_t = model.fingerprints_cdan[index_drug_t].to(device)
+    
+            _, _, _, domain_pred_t = model(batch_fp_t, index_side_t, index_drug_t, device,
+                                   use_cdan_features=True)  
             
             if domain_pred_t is not None:
                 domain_label_s = torch.zeros(domain_pred_s.size(0), 1).to(device)
