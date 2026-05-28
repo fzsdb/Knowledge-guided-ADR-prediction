@@ -34,11 +34,11 @@ This repository implements a hierarchical and relation-aware framework for adver
 ```
 ├── AAKD/                        # KDS implementation
 │   ├── main.py                
-│   ├── config_file.py        
-│   ├── models_file.py        
+│   ├── config.py        
+│   ├── models.py        
 │   ├── graph_construction.py   
-│   ├── data_loader_file.py    
-│   └── train_eval_file.py      
+│   ├── data_loader.py    
+│   └── train_eval.py      
 │
 ├── Standard Setting/            # NDS implementation
 │   ├── main.py                  
