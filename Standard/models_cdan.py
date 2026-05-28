@@ -277,20 +277,29 @@ class SimpleMLPModel_CDAN(nn.Module):
         if self.use_cdan:
             self.gradient_reversal.lambda_ = lambda_
         
-    def forward(self, drug_fp, adr_indices, drug_indices, device):
+    def forward(self, drug_fp, adr_indices, drug_indices, device, use_cdan_features=False):
         batch_size = drug_fp.size(0)
         
         morgan_reduced = self.morgan_projection(drug_fp)
         
-        batch_mol_graphs = [self.mol_graphs[idx.item()].to(device) for idx in drug_indices]
+
+        if use_cdan_features and self.mol_graphs_cdan is not None:
+            batch_mol_graphs = [self.mol_graphs_cdan[idx.item()].to(device) for idx in drug_indices]
+        else:
+            batch_mol_graphs = [self.mol_graphs[idx.item()].to(device) for idx in drug_indices]
         batch_data = Batch.from_data_list(batch_mol_graphs).to(device)
         gnn_features = self.mol_gnn(batch_data)
         
-        batch_molformer = self.molformer_representations[drug_indices].to(device)
+
+        if use_cdan_features and self.molformer_representations_cdan is not None:
+            batch_molformer = self.molformer_representations_cdan[drug_indices].to(device)
+        else:
+            batch_molformer = self.molformer_representations[drug_indices].to(device)
         molformer_reduced = self.molformer_projection(batch_molformer)
         
         fused_drug_fp = torch.cat([morgan_reduced, gnn_features, molformer_reduced], dim=1)
         
+
         adr_embeddings = self.adr_rgcn(self.adr_graph.to(device))
         batch_adr_features = torch.zeros(batch_size, self.adr_feature_dim * self.max_adr_ids, device=device)
         for batch_idx, adr_idx in enumerate(adr_indices.cpu().numpy()):
@@ -304,14 +313,19 @@ class SimpleMLPModel_CDAN(nn.Module):
                 padding = torch.zeros(self.max_adr_ids - len(valid_indices), self.adr_feature_dim, device=device)
                 adr_embeds = torch.cat([adr_embeds, padding], dim=0)
             batch_adr_features[batch_idx] = adr_embeds.view(-1)[:self.adr_feature_dim * self.max_adr_ids]
-       
+        
+
         atc_embeddings = self.atc_rgcn(self.atc_graph.to(device))
         batch_atc_features = torch.zeros(batch_size, self.atc_feature_dim * self.max_atc_codes, device=device)
         batch_atc_codes_list = []
         for batch_idx, drug_idx in enumerate(drug_indices.cpu().numpy()):
-            atc_codes = self.index_to_atc.get(drug_idx, [])
+            if use_cdan_features and self.index_to_atc_cdan is not None:
+                atc_codes = self.index_to_atc_cdan.get(drug_idx, [])
+                atc_indices = self.atc_id_to_idx_cdan.get(drug_idx, [])
+            else:
+                atc_codes = self.index_to_atc.get(drug_idx, [])
+                atc_indices = self.atc_id_to_idx.get(drug_idx, [])
             batch_atc_codes_list.append(atc_codes)
-            atc_indices = self.atc_id_to_idx.get(drug_idx, [])
             valid_indices = [idx for idx in atc_indices if idx is not None]
             if not valid_indices:
                 continue
@@ -320,7 +334,8 @@ class SimpleMLPModel_CDAN(nn.Module):
                 padding = torch.zeros(self.max_atc_codes - len(valid_indices), self.atc_feature_dim, device=device)
                 atc_embeds = torch.cat([atc_embeds, padding], dim=0)
             batch_atc_features[batch_idx] = atc_embeds.view(-1)[:self.atc_feature_dim * self.max_atc_codes]
-       
+        
+
         moe_output, gate_weights, attention_analysis = self.moe(
             fused_drug_fp, batch_adr_features, batch_atc_features, batch_atc_codes_list
         )
