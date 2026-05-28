@@ -249,8 +249,11 @@ class SimpleMLPModel_CDAN(nn.Module):
         self.index_to_atc = None
         self.molformer_representations = None
 
-    def set_graph(self, adr_graph, adr_node2idx, index_to_adrecs, atc_graph, atc_node2idx, 
-                  index_to_atc, molformer_representations):
+    def set_graph(self, adr_graph, adr_node2idx, index_to_adrecs,
+              atc_graph, atc_node2idx, index_to_atc,
+              molformer_representations,
+              fingerprints_cdan=None, mol_graphs_cdan=None,
+              molformer_representations_cdan=None, index_to_atc_cdan=None):
         self.adr_graph = adr_graph
         self.adr_node2idx = adr_node2idx
         self.index_to_adrecs = index_to_adrecs
@@ -260,6 +263,15 @@ class SimpleMLPModel_CDAN(nn.Module):
         self.adr_id_to_idx = {idx: [adr_node2idx.get(adrecs_id, None) for adrecs_id in adrecs_ids] for idx, adrecs_ids in index_to_adrecs.items()}
         self.atc_id_to_idx = {idx: [atc_node2idx.get(atc_code, None) for atc_code in atc_codes] for idx, atc_codes in index_to_atc.items()}
         self.molformer_representations = molformer_representations
+                  
+        self.fingerprints_cdan = fingerprints_cdan
+        self.mol_graphs_cdan = mol_graphs_cdan
+        self.molformer_representations_cdan = molformer_representations_cdan
+        self.index_to_atc_cdan = index_to_atc_cdan
+        self.atc_id_to_idx_cdan = {
+            idx: [atc_node2idx.get(atc_code, None) for atc_code in atc_codes]
+            for idx, atc_codes in (index_to_atc_cdan or {}).items()
+        }
     
     def set_lambda(self, lambda_):
         if self.use_cdan:
