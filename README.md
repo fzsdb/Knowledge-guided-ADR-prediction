@@ -42,14 +42,14 @@ This repository implements a hierarchical and relation-aware framework for adver
 │
 ├── Standard Setting/            # NDS implementation
 │   ├── main.py                  
-│   ├── config.py                
-│   ├── models_standard.py       
+│   ├── config_cdan.py                
+│   ├── models_cdan.py       
 │   ├── cdan_modules.py         
-│   ├── graph_construction.py    
-│   ├── data_loader.py          
+│   ├── graph_construction_cdan.py    
+│   ├── data_loader_cdan.py          
 │   ├── molecular_features.py   
-│   ├── train_eval.py            
-│   └── utils_file.py           
+│   ├── train_eval_cdan.py            
+│   └── utils.py           
 │
 ├── requirements.txt
 └── README.md
