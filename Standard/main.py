@@ -18,8 +18,10 @@ def train_test(data_train, data_test, args):
     data_test = np.array(data_test)
     
     (fingerprints, mol_graphs, molformer_representations,
-     adr_graph, adr_node2idx, index_to_adrecs, 
-     atc_graph, atc_node2idx, index_to_atc, offset) = read_raw_data(data_train, data_test, args)
+     adr_graph, adr_node2idx, index_to_adrecs,
+     atc_graph, atc_node2idx, index_to_atc, offset,
+     fingerprints_cdan, mol_graphs_cdan, molformer_representations_cdan,
+     index_to_atc_cdan) = read_raw_data(data_train, data_test, args) = read_raw_data(data_train, data_test, args)
     
     data_test_offset = data_test.copy()
     data_test_offset[:, 0] += offset
@@ -68,9 +70,11 @@ def train_test(data_train, data_test, args):
     total_params = count_parameters(model)
     print(f"Total number of trainable parameters: {total_params}")
     
-    model.set_graph(adr_graph, adr_node2idx, index_to_adrecs, 
-                    atc_graph, atc_node2idx, index_to_atc, 
-                    molformer_representations)
+    model.set_graph(adr_graph, adr_node2idx, index_to_adrecs,
+                atc_graph, atc_node2idx, index_to_atc,
+                molformer_representations,
+                fingerprints_cdan, mol_graphs_cdan,
+                molformer_representations_cdan, index_to_atc_cdan)
     
     criterion = nn.CrossEntropyLoss()
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
