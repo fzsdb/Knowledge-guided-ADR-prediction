@@ -1,0 +1,314 @@
+drugid,DRUG_NAME,SMILES,Source,Canonical_SMILES
+BADD_D00004,2-[1-methyl-5-(4-methylbenzoyl)pyrrol-2-yl]acetate,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)[O-],PubChem,Cc1ccc(C(=O)c2ccc(CC(=O)[O-])n2C)cc1
+BADD_D00005,4-oxo-3-(3-oxo-1-phenylbutyl)chromen-2-olate,[Li+].CC(=O)CC(C1=CC=CC=C1)C2=C(OC3=CC=CC=C3C2=O)[O-],PubChem,CC(=O)CC(c1ccccc1)c1c([O-])oc2ccccc2c1=O.[Li+]
+BADD_D00006,"4r,6r-dorzolamide",CCNC1CC(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)C,PubChem,CCNC1CC(C)S(=O)(=O)c2sc(S(N)(=O)=O)cc21
+BADD_D00016,Acamprosate,CC(=O)NCCCS(=O)(=O)O,PubChem,CC(=O)NCCCS(=O)(=O)O
+BADD_D00027,Acetic acid,CC(=O)O,PubChem,CC(=O)O
+BADD_D00029,Acetyl sulfisoxazole,CC1=C(ON=C1C)N(C(=O)C)S(=O)(=O)C2=CC=C(C=C2)N,PubChem,CC(=O)N(c1onc(C)c1C)S(=O)(=O)c1ccc(N)cc1
+BADD_D00032,Acetylcysteine,CC(=O)NC(CS)C(=O)O,PubChem,CC(=O)NC(CS)C(=O)O
+BADD_D00036,Acitretin,CC1=CC(=C(C(=C1C=CC(=CC=CC(=CC(=O)O)C)C)C)C)OC,PubChem,COc1cc(C)c(C=CC(C)=CC=CC(C)=CC(=O)O)c(C)c1C
+BADD_D00061,Alcohol,CCO,PubChem,CCO
+BADD_D00076,Allopurinol,C1=NNC2=C1C(=O)NC=N2,PubChem,O=c1[nH]cnc2[nH]ncc12
+BADD_D00090,Aluminum chlorohydrate,O.O.[OH-].[OH-].[OH-].[OH-].[OH-].[Al+3].[Al+3].[Cl-],PubChem,O.O.[Al+3].[Al+3].[Cl-].[OH-].[OH-].[OH-].[OH-].[OH-]
+BADD_D00097,Amantadine,C1C2CC3CC1CC(C2)(C3)N,PubChem,NC12CC3CC(CC(C3)C1)C2
+BADD_D00103,Amikacin,C1C(C(C(C(C1NC(=O)C(CCN)O)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CN)O)O)O)N,PubChem,NCCC(O)C(=O)NC1CC(N)C(OC2OC(CN)C(O)C(O)C2O)C(O)C1OC1OC(CO)C(O)C(N)C1O
+BADD_D00106,Aminocaproic acid,C(CCC(=O)O)CCN,PubChem,NCCCCCC(=O)O
+BADD_D00107,Aminoglutethimide,CCC1(CCC(=O)NC1=O)C2=CC=C(C=C2)N,PubChem,CCC1(c2ccc(N)cc2)CCC(=O)NC1=O
+BADD_D00115,Amiodarone,CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I,PubChem,CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1
+BADD_D00120,Amlexanox,CC(C)C1=CC2=C(C=C1)OC3=NC(=C(C=C3C2=O)C(=O)O)N,PubChem,CC(C)c1ccc2oc3nc(N)c(C(=O)O)cc3c(=O)c2c1
+BADD_D00128,Amoxapine,C1CN(CCN1)C2=NC3=CC=CC=C3OC4=C2C=C(C=C4)Cl,PubChem,Clc1ccc2c(c1)C(N1CCNCC1)=Nc1ccccc1O2
+BADD_D00135,Ampicillin trihydrate,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C.O.O.O,PubChem,CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)O.O.O.O
+BADD_D00137,Amsacrine,COC1=C(C=CC(=C1)NS(=O)(=O)C)NC2=C3C=CC=CC3=NC4=CC=CC=C42,PubChem,COc1cc(NS(C)(=O)=O)ccc1Nc1c2ccccc2nc2ccccc12
+BADD_D00138,Amyl nitrite,CCCCCON=O,PubChem,CCCCCON=O
+BADD_D00139,Anagrelide,C1C2=C(C=CC(=C2Cl)Cl)N=C3N1CC(=O)N3,PubChem,O=C1CN2Cc3c(ccc(Cl)c3Cl)N=C2N1
+BADD_D00153,Apomorphine hydrochloride,CN1CCC2=C3C1CC4=C(C3=CC=C2)C(=C(C=C4)O)O.Cl,PubChem,CN1CCc2cccc3c2C1Cc1ccc(O)c(O)c1-3.Cl
+BADD_D00171,Ascorbic acid,C(C(C1C(=C(C(=O)O1)O)O)O)O,PubChem,O=C1OC(C(O)CO)C(O)=C1O
+BADD_D00173,Asenapine maleate,CN1CC2C(C1)C3=C(C=CC(=C3)Cl)OC4=CC=CC=C24,PubChem,CN1CC2c3ccccc3Oc3ccc(Cl)cc3C2C1
+BADD_D00175,Asparaginase,C(C(C(=O)[O-])N)C(=O)N,PubChem,NC(=O)CC(N)C(=O)[O-]
+BADD_D00184,Atorvastatin calcium trihydrate,CC(C)C1=C(C(=C(N1CCC(CC(CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.CC(C)C1=C(C(=C(N1CCC(CC(CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.O.O.O.[Ca+2],PubChem,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)[O-].CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)[O-].O.O.O.[Ca+2]
+BADD_D00196,Azathioprine sodium,CN1C=NC(=C1SC2=NC=NC3=C2N=C[N-]3)[N+](=O)[O-].[Na+],PubChem,Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[n-]cnc12.[Na+]
+BADD_D00200,Azilsartan,CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NOC(=O)N5)C(=O)O,PubChem,CCOc1nc2cccc(C(=O)O)c2n1Cc1ccc(-c2ccccc2-c2noc(=O)[nH]2)cc1
+BADD_D00202,Azilsartan medoxomil,CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NOC(=O)N5)C(=O)OCC6=C(OC(=O)O6)C,PubChem,CCOc1nc2cccc(C(=O)OCc3oc(=O)oc3C)c2n1Cc1ccc(-c2ccccc2-c2noc(=O)[nH]2)cc1
+BADD_D00204,Azithromycin dihydrate,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O.O.O,PubChem,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O.O.O
+BADD_D00205,Azithromycin monohydrate,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O.O,PubChem,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O.O
+BADD_D00208,Bacitracin,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCCCCC(C(=O)NC(C(=O)N1)CCCN)NC(=O)C(C(C)CC)NC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C2CSC(=N2)C(C(C)CC)N)CC(=O)N)CC(=O)O)CC3=CN=CN3)CC4=CC=CC=C4,PubChem,CCC(C)C(N)C1=NC(C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(C(=O)NC2CCCCNC(=O)C(CC(N)=O)NC(=O)C(CC(=O)O)NC(=O)C(Cc3cnc[nH]3)NC(=O)C(Cc3ccccc3)NC(=O)C(C(C)CC)NC(=O)C(CCCN)NC2=O)C(C)CC)CS1
+BADD_D00217,Beclomethasone,CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)Cl)C,PubChem,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(O)C(=O)CO
+BADD_D00219,Beclomethasone dipropionate,CCC(=O)OCC(=O)C1(C(CC2C1(CC(C3(C2CCC4=CC(=O)C=CC43C)Cl)O)C)C)OC(=O)CC,PubChem,CCC(=O)OCC(=O)C1(OC(=O)CC)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC21C
+BADD_D00236,Benzatropine,CN1C2CCC1CC(C2)OC(C3=CC=CC=C3)C4=CC=CC=C4,PubChem,CN1C2CCC1CC(OC(c1ccccc1)c1ccccc1)C2
+BADD_D00256,Besifloxacin,C1CCN(CC(C1)N)C2=C(C=C3C(=C2Cl)N(C=C(C3=O)C(=O)O)C4CC4)F,PubChem,NC1CCCCN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2Cl)C1
+BADD_D00259,Betaine,C[N+](C)(C)CC(=O)[O-],PubChem,C[N+](C)(C)CC(=O)[O-]
+BADD_D00263,Betaxolol,CC(C)NCC(COC1=CC=C(C=C1)CCOCC2CC2)O,PubChem,CC(C)NCC(O)COc1ccc(CCOCC2CC2)cc1
+BADD_D00269,Bexarotene,CC1=CC2=C(C=C1C(=C)C3=CC=C(C=C3)C(=O)O)C(CCC2(C)C)(C)C,PubChem,C=C(c1ccc(C(=O)O)cc1)c1cc2c(cc1C)C(C)(C)CCC2(C)C
+BADD_D00270,Bezafibrate,CC(C)(C(=O)O)OC1=CC=C(C=C1)CCNC(=O)C2=CC=C(C=C2)Cl,PubChem,CC(C)(Oc1ccc(CCNC(=O)c2ccc(Cl)cc2)cc1)C(=O)O
+BADD_D00275,Biperiden hydrochloride,C1CCN(CC1)CCC(C2CC3CC2C=C3)(C4=CC=CC=C4)O.Cl,PubChem,Cl.OC(CCN1CCCCC1)(c1ccccc1)C1CC2C=CC1C2
+BADD_D00276,Bisacodyl,CC(=O)OC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC(=O)C)C3=CC=CC=N3,PubChem,CC(=O)Oc1ccc(C(c2ccc(OC(C)=O)cc2)c2ccccn2)cc1
+BADD_D00287,Bosutinib monohydrate,CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC.O,PubChem,COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)cc1Cl.O
+BADD_D00297,Brivaracetam,CCCC1CC(=O)N(C1)C(CC)C(=O)N,PubChem,CCCC1CC(=O)N(C(CC)C(N)=O)C1
+BADD_D00302,Bromhexine,CN(CC1=C(C(=CC(=C1)Br)Br)N)C2CCCCC2,PubChem,CN(Cc1cc(Br)cc(Br)c1N)C1CCCCC1
+BADD_D00310,Buprenorphine,CC(C)(C)C(C)(C1CC23CCC1(C4C25CCN(C3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O,PubChem,COC12CCC3(CC1C(C)(O)C(C)(C)C)C1Cc4ccc(O)c5c4C3(CCN1CC1CC1)C2O5
+BADD_D00313,Bupropion hydrobromide,CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C.Br,PubChem,Br.CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1
+BADD_D00319,Butabarbital,CCC(C)C1(C(=O)NC(=O)NC1=O)CC,PubChem,CCC(C)C1(CC)C(=O)NC(=O)NC1=O
+BADD_D00322,Butenafine hydrochloride,CC(C)(C)C1=CC=C(C=C1)CN(C)CC2=CC=CC3=CC=CC=C32.Cl,PubChem,CN(Cc1ccc(C(C)(C)C)cc1)Cc1cccc2ccccc12.Cl
+BADD_D00328,Cabazitaxel,CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)OC)C)OC,PubChem,COC1C(=O)C2(C)C(OC)CC3OCC3(OC(C)=O)C2C(OC(=O)c2ccccc2)C2(O)CC(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c3ccccc3)C(C)=C1C2(C)C
+BADD_D00339,Calcium chloride,O.O.[Cl-].[Cl-].[Ca+2],PubChem,O.O.[Ca+2].[Cl-].[Cl-]
+BADD_D00348,Cangrelor,CSCCNC1=C2C(=NC(=N1)SCCC(F)(F)F)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(C(P(=O)(O)O)(Cl)Cl)O)O)O,PubChem,CSCCNc1nc(SCCC(F)(F)F)nc2c1ncn2C1OC(COP(=O)(O)OP(=O)(O)C(Cl)(Cl)P(=O)(O)O)C(O)C1O
+BADD_D00354,Captopril,CC(CS)C(=O)N1CCCC1C(=O)O,PubChem,CC(CS)C(=O)N1CCCC1C(=O)O
+BADD_D00357,Carbenicillin,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)C(=O)O)C(=O)O)C,PubChem,CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccccc3)C(=O)N2C1C(=O)O
+BADD_D00373,Carteolol hydrochloride,CC(C)(C)NCC(COC1=CC=CC2=C1CCC(=O)N2)O.Cl,PubChem,CC(C)(C)NCC(O)COc1cccc2c1CCC(=O)N2.Cl
+BADD_D00379,Cefadroxil,CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)SC1)C(=O)O,PubChem,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccc(O)cc3)C2SC1
+BADD_D00395,Cefpodoxime,COCC1=C(N2C(C(C2=O)NC(=O)C(=NOC)C3=CSC(=N3)N)SC1)C(=O)O,PubChem,COCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=NOC)c3csc(N)n3)C2SC1
+BADD_D00412,Cephalexin,CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=CC=C3)N)SC1)C(=O)O,PubChem,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)c3ccccc3)C2SC1
+BADD_D00420,Cetrorelix acetate,CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NC(C)C(=O)N)NC(=O)C(CCCNC(=O)N)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CN=CC=C3)NC(=O)C(CC4=CC=C(C=C4)Cl)NC(=O)C(CC5=CC6=CC=CC=C6C=C5)NC(=O)C.CC(=O)O,PubChem,CC(=O)NC(Cc1ccc2ccccc2c1)C(=O)NC(Cc1ccc(Cl)cc1)C(=O)NC(Cc1cccnc1)C(=O)NC(CO)C(=O)NC(Cc1ccc(O)cc1)C(=O)NC(CCCNC(N)=O)C(=O)NC(CC(C)C)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NC(C)C(N)=O.CC(=O)O
+BADD_D00424,Cevimeline,CC1OC2(CN3CCC2CC3)CS1,PubChem,CC1OC2(CS1)CN1CCC2CC1
+BADD_D00425,Cevimeline hydrochloride,CC1OC2(CN3CCC2CC3)CS1.Cl,PubChem,CC1OC2(CS1)CN1CCC2CC1.Cl
+BADD_D00428,Chloral hydrate,C(C(Cl)(Cl)Cl)(O)O,PubChem,OC(O)C(Cl)(Cl)Cl
+BADD_D00447,Chlorpropamide,CCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)Cl,PubChem,CCCNC(=O)NS(=O)(=O)c1ccc(Cl)cc1
+BADD_D00449,Chlorzoxazone,C1=CC2=C(C=C1Cl)NC(=O)O2,PubChem,O=c1[nH]c2cc(Cl)ccc2o1
+BADD_D00471,Ciprofloxacin,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,PubChem,O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O
+BADD_D00473,Cisatracurium besylate,C[N+]1(CCC2=CC(=C(C=C2C1CC3=CC(=C(C=C3)OC)OC)OC)OC)CCC(=O)OCCCCCOC(=O)CC[N+]4(CCC5=CC(=C(C=C5C4CC6=CC(=C(C=C6)OC)OC)OC)OC)C.C1=CC=C(C=C1)S(=O)(=O)[O-].C1=CC=C(C=C1)S(=O)(=O)[O-],PubChem,COc1ccc(CC2c3cc(OC)c(OC)cc3CC[N+]2(C)CCC(=O)OCCCCCOC(=O)CC[N+]2(C)CCc3cc(OC)c(OC)cc3C2Cc2ccc(OC)c(OC)c2)cc1OC.O=S(=O)([O-])c1ccccc1.O=S(=O)([O-])c1ccccc1
+BADD_D00503,Clonidine hydrochloride,C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl.Cl,PubChem,Cl.Clc1cccc(Cl)c1NC1=NCCN1
+BADD_D00504,Clopidogrel,COC(=O)C(C1=CC=CC=C1Cl)N2CCC3=C(C2)C=CS3,PubChem,COC(=O)C(c1ccccc1Cl)N1CCc2sccc2C1
+BADD_D00513,Cobimetinib,C1CCNC(C1)C2(CN(C2)C(=O)C3=C(C(=C(C=C3)F)F)NC4=C(C=C(C=C4)I)F)O,PubChem,O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)(C2CCCCN2)C1
+BADD_D00517,Codeine sulfate,CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)O.CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)O.OS(=O)(=O)O,PubChem,COc1ccc2c3c1OC1C(O)C=CC4C(C2)N(C)CCC341.COc1ccc2c3c1OC1C(O)C=CC4C(C2)N(C)CCC341.O=S(=O)(O)O
+BADD_D00520,Colestilan chloride,CC1=NC=CN1.C1C(O1)CCl,PubChem,Cc1ncc[nH]1.ClCC1CO1
+BADD_D00527,Conivaptan hydrochloride,CC1=NC2=C(N1)CCN(C3=CC=CC=C32)C(=O)C4=CC=C(C=C4)NC(=O)C5=CC=CC=C5C6=CC=CC=C6.Cl,PubChem,Cc1nc2c([nH]1)CCN(C(=O)c1ccc(NC(=O)c3ccccc3-c3ccccc3)cc1)c1ccccc1-2.Cl
+BADD_D00535,Crizotinib,CC(C1=C(C=CC(=C1Cl)F)Cl)OC2=C(N=CC(=C2)C3=CN(N=C3)C4CCNCC4)N,PubChem,CC(Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl
+BADD_D00537,Cromoglycate,C1=CC2=C(C(=C1)OCC(COC3=CC=CC4=C3C(=O)C=C(O4)C(=O)O)O)C(=O)C=C(O2)C(=O)O,PubChem,O=C(O)c1cc(=O)c2c(OCC(O)COc3cccc4oc(C(=O)O)cc(=O)c34)cccc2o1
+BADD_D00558,Cysteamine hydrochloride,C(CS)N.Cl,PubChem,Cl.NCCS
+BADD_D00572,Dalbavancin,CC(C)CCCCCCCCC(=O)NC1C(C(C(OC1OC2=C3C=C4C=C2OC5=C(C=C(C=C5)C(C6C(=O)NC(C7=C(C(=CC(=C7)O)OC8C(C(C(C(O8)CO)O)O)O)C9=C(C=CC(=C9)C(C(=O)N6)NC(=O)C4NC(=O)C1C2=C(C(=CC(=C2)OC2=C(C=CC(=C2)C(C(=O)NC(CC2=CC=C(O3)C=C2)C(=O)N1)NC)O)O)Cl)O)C(=O)NCCCN(C)C)O)Cl)C(=O)O)O)O,PubChem,CNC1C(=O)NC2Cc3ccc(cc3)Oc3cc4cc(c3OC3OC(C(=O)O)C(O)C(O)C3NC(=O)CCCCCCCCC(C)C)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(cc(O)c2Cl)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(OC2OC(CO)C(O)C(O)C2O)cc(O)cc1C(C(=O)NCCCN(C)C)NC3=O
+BADD_D00573,Dalbavancin hydrochloride,CC(C)CCCCCCCCC(=O)NC1C(C(C(OC1OC2=C3C=C4C=C2OC5=C(C=C(C=C5)C(C6C(=O)NC(C7=C(C(=CC(=C7)O)OC8C(C(C(C(O8)CO)O)O)O)C9=C(C=CC(=C9)C(C(=O)N6)NC(=O)C4NC(=O)C1C2=C(C(=CC(=C2)OC2=C(C=CC(=C2)C(C(=O)NC(CC2=CC=C(O3)C=C2)C(=O)N1)NC)O)O)Cl)O)C(=O)NCCCN(C)C)O)Cl)C(=O)O)O)O.Cl,PubChem,CNC1C(=O)NC2Cc3ccc(cc3)Oc3cc4cc(c3OC3OC(C(=O)O)C(O)C(O)C3NC(=O)CCCCCCCCC(C)C)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(cc(O)c2Cl)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(OC2OC(CO)C(O)C(O)C2O)cc(O)cc1C(C(=O)NCCCN(C)C)NC3=O.Cl
+BADD_D00574,Dalfampridine,C1=CN=CC=C1N,PubChem,Nc1ccncc1
+BADD_D00580,Dapsone,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,PubChem,Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1
+BADD_D00589,Dasatinib,CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO,PubChem,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1
+BADD_D00594,Deferasirox,C1=CC=C(C(=C1)C2=NN(C(=N2)C3=CC=CC=C3O)C4=CC=C(C=C4)C(=O)O)O,PubChem,O=C(O)c1ccc(-n2nc(-c3ccccc3O)nc2-c2ccccc2O)cc1
+BADD_D00599,Degarelix,CC(C)CC(C(=O)NC(CCCCNC(C)C)C(=O)N1CCCC1C(=O)NC(C)C(=O)N)NC(=O)C(CC2=CC=C(C=C2)NC(=O)N)NC(=O)C(CC3=CC=C(C=C3)NC(=O)C4CC(=O)NC(=O)N4)NC(=O)C(CO)NC(=O)C(CC5=CN=CC=C5)NC(=O)C(CC6=CC=C(C=C6)Cl)NC(=O)C(CC7=CC8=CC=CC=C8C=C7)NC(=O)C,PubChem,CC(=O)NC(Cc1ccc2ccccc2c1)C(=O)NC(Cc1ccc(Cl)cc1)C(=O)NC(Cc1cccnc1)C(=O)NC(CO)C(=O)NC(Cc1ccc(NC(=O)C2CC(=O)NC(=O)N2)cc1)C(=O)NC(Cc1ccc(NC(N)=O)cc1)C(=O)NC(CC(C)C)C(=O)NC(CCCCNC(C)C)C(=O)N1CCCC1C(=O)NC(C)C(N)=O
+BADD_D00613,Desipramine hydrochloride,CNCCCN1C2=CC=CC=C2CCC3=CC=CC=C31.Cl,PubChem,CNCCCN1c2ccccc2CCc2ccccc21.Cl
+BADD_D00614,Desirudin,CCC(C)C1C(=O)NC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC2C(=O)NCC(=O)NC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2)C(C)C)CC(=O)N)CO)CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C3CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)N3)CC(C)C)CC(=O)N)CCC(=O)N)CO)CCC(=O)O)C(C)O)NC(=O)C(CC(=O)O)NC(=O)C(C(C)O)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(C(C)C)NC(=O)C(C(C)C)N)C(=O)N1)CCCCN)CC(=O)N)CCC(=O)N)C(=O)NC(C(C)C)C(=O)NC(C(C)O)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NCC(=O)NC(C(C)O)C(=O)N5CCCC5C(=O)NC(CCCCN)C(=O)N6CCCC6C(=O)NC(CCC(=O)N)C(=O)NC(CO)C(=O)NC(CC7=CN=CN7)C(=O)NC(CC(=O)N)C(=O)NC(CC(=O)O)C(=O)NCC(=O)NC(CC(=O)O)C(=O)NC(CC8=CC=CC=C8)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(C(C)CC)C(=O)N9CCCC9C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)N)C(=O)O)CCC(=O)N)CC(=O)N)CCCCN)CCC(=O)O)CC(=O)O)CO)CC(C)C,PubChem,CCC(C)C1NC(=O)C2CSSCC(NC(=O)C(CC(C)C)NC(=O)C3CSSCC(NC(=O)C(CC(=O)O)NC(=O)C(NC(=O)C(Cc4ccc(O)cc4)NC(=O)C(NC(=O)C(N)C(C)C)C(C)C)C(C)O)C(=O)NC(C(C)O)C(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)NCC(=O)NC(CCC(N)=O)C(=O)NC(CC(N)=O)C(=O)NC(CC(C)C)C(=O)N3)C(=O)NC(CCC(=O)O)C(=O)NCC(=O)NC(CO)C(=O)NC(CC(N)=O)C(=O)NC(C(C)C)C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NCC(=O)NC(C(=O)N3CCCC3C(=O)NC(CCCCN)C(=O)N3CCCC3C(=O)NC(CCC(N)=O)C(=O)NC(CO)C(=O)NC(Cc3cnc[nH]3)C(=O)NC(CC(N)=O)C(=O)NC(CC(=O)O)C(=O)NCC(=O)NC(CC(=O)O)C(=O)NC(Cc3ccccc3)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(C(=O)N3CCCC3C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(Cc3ccc(O)cc3)C(=O)NC(CC(C)C)C(=O)NC(CCC(N)=O)C(=O)O)C(C)CC)C(C)O)C(C)O)C(C)C)NC(=O)C(CCC(N)=O)NC(=O)C(CC(N)=O)NC(=O)C(CCCCN)NC(=O)C(CCC(=O)O)NC(=O)CNC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)CNC(=O)C(CC(C)C)NC1=O)C(=O)NCC(=O)NC(CCC(N)=O)C(=O)NCC(=O)NC(CC(N)=O)C(=O)NC(CCCCN)C(=O)N2
+BADD_D00621,Desvenlafaxine,CN(C)CC(C1=CC=C(C=C1)O)C2(CCCCC2)O,PubChem,CN(C)CC(c1ccc(O)cc1)C1(O)CCCCC1
+BADD_D00622,Desvenlafaxine succinate,CN(C)CC(C1=CC=C(C=C1)O)C2(CCCCC2)O.C(CC(=O)O)C(=O)O,PubChem,CN(C)CC(c1ccc(O)cc1)C1(O)CCCCC1.O=C(O)CCC(=O)O
+BADD_D00636,Dextroamphetamine,CC(CC1=CC=CC=C1)N,PubChem,CC(N)Cc1ccccc1
+BADD_D00646,Diatrizoate sodium,CC(=O)NC1=C(C(=C(C(=C1I)C(=O)[O-])I)NC(=O)C)I.[Na+],PubChem,CC(=O)Nc1c(I)c(NC(C)=O)c(I)c(C(=O)[O-])c1I.[Na+]
+BADD_D00657,Dicloxacillin,CC1=C(C(=NO1)C2=C(C=CC=C2Cl)Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,PubChem,Cc1onc(-c2c(Cl)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O
+BADD_D00664,Diflorasone,CC1CC2C3CC(C4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C)F,PubChem,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO
+BADD_D00672,Dihydroergotamine mesylate,CC1(C(=O)N2C(C(=O)N3CCCC3C2(O1)O)CC4=CC=CC=C4)NC(=O)C5CC6C(CC7=CNC8=CC=CC6=C78)N(C5)C.CS(=O)(=O)O,PubChem,CN1CC(C(=O)NC2(C)OC3(O)C4CCCN4C(=O)C(Cc4ccccc4)N3C2=O)CC2c3cccc4[nH]cc(c34)CC21.CS(=O)(=O)O
+BADD_D00681,Dimethyl sulfoxide,CS(=O)C,PubChem,CS(C)=O
+BADD_D00700,Docosanol,CCCCCCCCCCCCCCCCCCCCCCO,PubChem,CCCCCCCCCCCCCCCCCCCCCCO
+BADD_D00704,Dolutegravir sodium,CC1CCOC2N1C(=O)C3=C(C(=O)C(=CN3C2)C(=O)NCC4=C(C=C(C=C4)F)F)[O-].[Na+],PubChem,CC1CCOC2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c([O-])c3C(=O)N12.[Na+]
+BADD_D00707,Donepezil hydrochloride,COC1=C(C=C2C(=C1)CC(C2=O)CC3CCN(CC3)CC4=CC=CC=C4)OC.Cl,PubChem,COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2.Cl
+BADD_D00709,Dopamine hydrochloride,C1=CC(=C(C=C1CCN)O)O.Cl,PubChem,Cl.NCCc1ccc(O)c(O)c1
+BADD_D00724,Doxorubicin hydrochloride,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O.Cl,PubChem,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(=O)CO)CC3OC1CC(N)C(O)C(C)O1.Cl
+BADD_D00725,Doxycycline,CC1C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,PubChem,CC1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C21
+BADD_D00737,Dyphylline,CN1C2=C(C(=O)N(C1=O)C)N(C=N2)CC(CO)O,PubChem,Cn1c(=O)c2c(ncn2CC(O)CO)n(C)c1=O
+BADD_D00741,Econazole nitrate,C1=CC(=CC=C1COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl.[N+](=O)(O)[O-],PubChem,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1.O=[N+]([O-])O
+BADD_D00746,Edoxaban tosylate,CC1=CC=C(C=C1)S(=O)(=O)O.CN1CCC2=C(C1)SC(=N2)C(=O)NC3CC(CCC3NC(=O)C(=O)NC4=NC=C(C=C4)Cl)C(=O)N(C)C,PubChem,CN1CCc2nc(C(=O)NC3CC(C(=O)N(C)C)CCC3NC(=O)C(=O)Nc3ccc(Cl)cn3)sc2C1.Cc1ccc(S(=O)(=O)O)cc1
+BADD_D00752,Eflornithine hydrochloride,C(CC(C(F)F)(C(=O)O)N)CN.Cl,PubChem,Cl.NCCCC(N)(C(=O)O)C(F)F
+BADD_D00775,Enzalutamide,CC1(C(=O)N(C(=S)N1C2=CC(=C(C=C2)C(=O)NC)F)C3=CC(=C(C=C3)C#N)C(F)(F)F)C,PubChem,CNC(=O)c1ccc(N2C(=S)N(c3ccc(C#N)c(C(F)(F)F)c3)C(=O)C2(C)C)cc1F
+BADD_D00777,Ephedrine,CC(C(C1=CC=CC=C1)O)NC,PubChem,CNC(C)C(O)c1ccccc1
+BADD_D00780,Epinastine,C1C2C3=CC=CC=C3CC4=CC=CC=C4N2C(=N1)N,PubChem,NC1=NCC2c3ccccc3Cc3ccccc3N12
+BADD_D00784,Epirubicin,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O,PubChem,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(=O)CO)CC3OC1CC(N)C(O)C(C)O1
+BADD_D00801,Erlotinib hydrochloride,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC.Cl,PubChem,C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1.Cl
+BADD_D00802,Ertapenem,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)C(=O)NC4=CC=CC(=C4)C(=O)O)C(=O)O)C(C)O,PubChem,CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)Nc4cccc(C(=O)O)c4)C3)C(C)C12
+BADD_D00811,Eslicarbazepine,C1C(C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O,PubChem,NC(=O)N1c2ccccc2CC(O)c2ccccc21
+BADD_D00829,Estriol,CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O,PubChem,CC12CCC3c4ccc(O)cc4CCC3C1CC(O)C2O
+BADD_D00839,Ethacrynate sodium,CCC(=C)C(=O)C1=C(C(=C(C=C1)OCC(=O)[O-])Cl)Cl.[Na+],PubChem,C=C(CC)C(=O)c1ccc(OCC(=O)[O-])c(Cl)c1Cl.[Na+]
+BADD_D00840,Ethacrynic acid,CCC(=C)C(=O)C1=C(C(=C(C=C1)OCC(=O)O)Cl)Cl,PubChem,C=C(CC)C(=O)c1ccc(OCC(=O)O)c(Cl)c1Cl
+BADD_D00842,Ethambutol hydrochloride,CCC(CO)NCCNC(CC)CO.Cl.Cl,PubChem,CCC(CO)NCCNC(CC)CO.Cl.Cl
+BADD_D00850,Etodolac,CCC1=C2C(=CC=C1)C3=C(N2)C(OCC3)(CC)CC(=O)O,PubChem,CCc1cccc2c3c([nH]c12)C(CC)(CC(=O)O)OCC3
+BADD_D00851,Etomidate,CCOC(=O)C1=CN=CN1C(C)C2=CC=CC=C2,PubChem,CCOC(=O)c1cncn1C(C)c1ccccc1
+BADD_D00879,Fentanyl,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,PubChem,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1
+BADD_D00881,Fentanyl hydrochloride,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3.Cl,PubChem,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1.Cl
+BADD_D00892,Fesoterodine fumarate,CC(C)C(=O)OC1=C(C=C(C=C1)CO)C(CCN(C(C)C)C(C)C)C2=CC=CC=C2.C(=CC(=O)O)C(=O)O,PubChem,CC(C)C(=O)Oc1ccc(CO)cc1C(CCN(C(C)C)C(C)C)c1ccccc1.O=C(O)C=CC(=O)O
+BADD_D00893,Fexofenadine,CC(C)(C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O)C(=O)O,PubChem,CC(C)(C(=O)O)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1
+BADD_D00896,Fidaxomicin,CCC1C=C(C(CC=CC=C(C(=O)OC(CC=C(C=C(C1OC2C(C(C(C(O2)(C)C)OC(=O)C(C)C)O)O)C)C)C(C)O)COC3C(C(C(C(O3)C)OC(=O)C4=C(C(=C(C(=C4O)Cl)O)Cl)CC)O)OC)O)C,PubChem,CCc1c(Cl)c(O)c(Cl)c(O)c1C(=O)OC1C(C)OC(OCC2=CC=CCC(O)C(C)=CC(CC)C(OC3OC(C)(C)C(OC(=O)C(C)C)C(O)C3O)C(C)=CC(C)=CCC(C(C)O)OC2=O)C(OC)C1O
+BADD_D00901,Flavoxate hydrochloride,CC1=C(OC2=C(C1=O)C=CC=C2C(=O)OCCN3CCCCC3)C4=CC=CC=C4.Cl,PubChem,Cc1c(-c2ccccc2)oc2c(C(=O)OCCN3CCCCC3)cccc2c1=O.Cl
+BADD_D00902,Flecainide,C1CCNC(C1)CNC(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F,PubChem,O=C(NCC1CCCCN1)c1cc(OCC(F)(F)F)ccc1OCC(F)(F)F
+BADD_D00911,Flucloxacillin,CC1=C(C(=NO1)C2=C(C=CC=C2Cl)F)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O,PubChem,Cc1onc(-c2c(F)cccc2Cl)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O
+BADD_D00917,Fludrocortisone,CC12CCC(=O)C=C1CCC3C2(C(CC4(C3CCC4(C(=O)CO)O)C)O)F,PubChem,CC12CCC(=O)C=C1CCC1C3CCC(O)(C(=O)CO)C3(C)CC(O)C12F
+BADD_D00927,Fluorescein sodium,C1=CC=C(C(=C1)C2=C3C=CC(=O)C=C3OC4=C2C=CC(=C4)[O-])C(=O)[O-].[Na+].[Na+],PubChem,O=C([O-])c1ccccc1-c1c2ccc(=O)cc-2oc2cc([O-])ccc12.[Na+].[Na+]
+BADD_D00938,Flurandrenolide,CC1(OC2CC3C4CC(C5=CC(=O)CCC5(C4C(CC3(C2(O1)C(=O)CO)C)O)C)F)C,PubChem,CC1(C)OC2CC3C4CC(F)C5=CC(=O)CCC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1
+BADD_D00939,Flurazepam,CCN(CC)CCN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3F,PubChem,CCN(CC)CCN1C(=O)CN=C(c2ccccc2F)c2cc(Cl)ccc21
+BADD_D00942,Flurbiprofen sodium,CC(C1=CC(=C(C=C1)C2=CC=CC=C2)F)C(=O)[O-].[Na+],PubChem,CC(C(=O)[O-])c1ccc(-c2ccccc2)c(F)c1.[Na+]
+BADD_D00944,Flutemetamol f-18,CNC1=C(C=C(C=C1)C2=NC3=C(S2)C=C(C=C3)O)F,PubChem,CNc1ccc(-c2nc3ccc(O)cc3s2)cc1F
+BADD_D00950,Fluvoxamine,COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F,PubChem,COCCCCC(=NOCCN)c1ccc(C(F)(F)F)cc1
+BADD_D00961,Fosamprenavir calcium,CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2CCOC2)OP(=O)([O-])[O-])S(=O)(=O)C3=CC=C(C=C3)N.[Ca+2],PubChem,CC(C)CN(CC(OP(=O)([O-])[O-])C(Cc1ccccc1)NC(=O)OC1CCOC1)S(=O)(=O)c1ccc(N)cc1.[Ca+2]
+BADD_D00973,Fotemustine,CCOP(=O)(C(C)NC(=O)N(CCCl)N=O)OCC,PubChem,CCOP(=O)(OCC)C(C)NC(=O)N(CCCl)N=O
+BADD_D00977,Frovatriptan succinate,CNC1CCC2=C(C1)C3=C(N2)C=CC(=C3)C(=O)N.C(CC(=O)O)C(=O)O.O,PubChem,CNC1CCc2[nH]c3ccc(C(N)=O)cc3c2C1.O.O=C(O)CCC(=O)O
+BADD_D01017,Gentamicin sulfate,CC(C1CCC(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)NC.OS(=O)(=O)O,PubChem,CNC(C)C1CCC(N)C(OC2C(N)CC(N)C(OC3OCC(C)(O)C(NC)C3O)C2O)O1.O=S(=O)(O)O
+BADD_D01030,Glyburide,COC1=C(C=C(C=C1)Cl)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3,PubChem,COc1ccc(Cl)cc1C(=O)NCCc1ccc(S(=O)(=O)NC(=O)NC2CCCCC2)cc1
+BADD_D01034,Glycopyrrolate,C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C.[Br-],PubChem,C[N+]1(C)CCC(OC(=O)C(O)(c2ccccc2)C2CCCC2)C1.[Br-]
+BADD_D01039,Goserelin acetate,CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NNC(=O)N)NC(=O)C(COC(C)(C)C)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC5=CN=CN5)NC(=O)C6CCC(=O)N6.CC(=O)O,PubChem,CC(=O)O.CC(C)CC(NC(=O)C(COC(C)(C)C)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1cnc[nH]1)NC(=O)C1CCC(=O)N1)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NNC(N)=O
+BADD_D01042,Griseofulvin,CC1CC(=O)C=C(C12C(=O)C3=C(O2)C(=C(C=C3OC)OC)Cl)OC,PubChem,COC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O
+BADD_D01058,Hemin,CC1=C(C2=CC3=C(C(=C([N-]3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1[N-]2)C)C=C)C)C=C)C)CCC(=O)O)CCC(=O)O.[Fe+2],PubChem,C=CC1=C(C)c2cc3[n-]c(cc4[n-]c(cc5nc(cc1n2)C(C)=C5C=C)c(C)c4CCC(=O)O)c(CCC(=O)O)c3C.[Fe+2]
+BADD_D01069,Hexaminolevulinate hydrochloride,CCCCCCOC(=O)CCC(=O)CN.Cl,PubChem,CCCCCCOC(=O)CCC(=O)CN.Cl
+BADD_D01070,Hexylresorcinol,CCCCCCC1=C(C=C(C=C1)O)O,PubChem,CCCCCCc1ccc(O)cc1O
+BADD_D01075,Homatropine,CN1C2CCC1CC(C2)OC(=O)C(C3=CC=CC=C3)O,PubChem,CN1C2CCC1CC(OC(=O)C(O)c1ccccc1)C2
+BADD_D01099,Hydroxocobalamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.O.[Co],PubChem,CC1=C2N=C(C=C3N=C(C(C)=C4[N-]C(C(CC(N)=O)C4(C)CCC(=O)NCC(C)OP(=O)([O-])OC4C(CO)OC(n5cnc6cc(C)c(C)cc65)C4O)C4(C)N=C1C(CCC(N)=O)C4(C)CC(N)=O)C(CCC(N)=O)C3(C)C)C(CCC(N)=O)C2(C)CC(N)=O.O.[Co]
+BADD_D01112,Hydroxyzine hydrochloride,C1CN(CCN1CCOCCO)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl.Cl,PubChem,Cl.OCCOCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1
+BADD_D01114,Hyoscyamine,CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3,PubChem,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2
+BADD_D01115,Hyoscyamine sulfate,CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3.CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3.OS(=O)(=O)O,PubChem,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2.CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2.O=S(=O)(O)O
+BADD_D01117,Ibandronic acid,CCCCCN(C)CCC(O)(P(=O)(O)O)P(=O)(O)O,PubChem,CCCCCN(C)CCC(O)(P(=O)(O)O)P(=O)(O)O
+BADD_D01133,Ifosfamide,C1CN(P(=O)(OC1)NCCCl)CCCl,PubChem,O=P1(NCCCl)OCCCN1CCCl
+BADD_D01146,Inamrinone,C1=CN=CC=C1C2=CNC(=O)C(=C2)N,PubChem,Nc1cc(-c2ccncc2)c[nH]c1=O
+BADD_D01147,Indacaterol,CCC1=C(C=C2CC(CC2=C1)NCC(C3=C4C=CC(=O)NC4=C(C=C3)O)O)CC,PubChem,CCc1cc2c(cc1CC)CC(NCC(O)c1ccc(O)c3[nH]c(=O)ccc13)C2
+BADD_D01159,Insulin (human),CCC(C)C1C(=O)NC2CSSCC(C(=O)NC(CSSCC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC2=O)CO)CC(C)C)CC3=CC=C(C=C3)O)CCC(=O)N)CC(C)C)CCC(=O)O)CC(=O)N)CC4=CC=C(C=C4)O)C(=O)NC(CC(=O)N)C(=O)O)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(CC5=CC=CC=C5)C(=O)NC(CC6=CC=CC=C6)C(=O)NC(CC7=CC=C(C=C7)O)C(=O)NC(C(C)O)C(=O)N8CCCC8C(=O)NC(CCCCN)C(=O)NC(C(C)O)C(=O)O)C(C)C)CC(C)C)CC9=CC=C(C=C9)O)CC(C)C)C)CCC(=O)O)C(C)C)CC(C)C)CC2=CNC=N2)CO)NC(=O)C(CC(C)C)NC(=O)C(CC2=CNC=N2)NC(=O)C(CCC(=O)N)NC(=O)C(CC(=O)N)NC(=O)C(C(C)C)NC(=O)C(CC2=CC=CC=C2)N)C(=O)NC(C(=O)NC(C(=O)N1)CO)C(C)O)NC(=O)C(CCC(=O)N)NC(=O)C(CCC(=O)O)NC(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)CN,PubChem,CCC(C)C(NC(=O)CN)C(=O)NC(C(=O)NC(CCC(=O)O)C(=O)NC(CCC(N)=O)C(=O)NC1CSSCC2NC(=O)C(C(C)CC)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(CSSCC(NC(=O)C(CC(C)C)NC(=O)C(Cc3c[nH]cn3)NC(=O)C(CCC(N)=O)NC(=O)C(CC(N)=O)NC(=O)C(NC(=O)C(N)Cc3ccccc3)C(C)C)C(=O)NCC(=O)NC(CO)C(=O)NC(Cc3c[nH]cn3)C(=O)NC(CC(C)C)C(=O)NC(C(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(C)C(=O)NC(CC(C)C)C(=O)NC(Cc3ccc(O)cc3)C(=O)NC(CC(C)C)C(=O)NC(C(C)C)C(=O)NC(C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(Cc3ccccc3)C(=O)NC(Cc3ccccc3)C(=O)NC(Cc3ccc(O)cc3)C(=O)NC(C(=O)N3CCCC3C(=O)NC(CCCCN)C(=O)NC(C(=O)O)C(C)O)C(C)O)CSSCC(C(=O)NC(CC(N)=O)C(=O)O)NC(=O)C(Cc3ccc(O)cc3)NC(=O)C(CC(N)=O)NC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(CCC(N)=O)NC(=O)C(Cc3ccc(O)cc3)NC(=O)C(CC(C)C)NC(=O)C(CO)NC2=O)NC1=O)C(C)C
+BADD_D01160,Insulin aspart,CCC(C)C1C(=O)NC2CSSCC(C(=O)NC(CSSCC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC2=O)CO)CC(C)C)CC3=CC=C(C=C3)O)CCC(=O)N)CC(C)C)CCC(=O)O)CC(=O)N)CC4=CC=C(C=C4)O)C(=O)NC(CC(=O)N)C(=O)O)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(CC5=CC=CC=C5)C(=O)NC(CC6=CC=CC=C6)C(=O)NC(CC7=CC=C(C=C7)O)C(=O)NC(C(C)O)C(=O)NC(CC(=O)O)C(=O)NC(CCCCN)C(=O)NC(C(C)O)C(=O)O)C(C)C)CC(C)C)CC8=CC=C(C=C8)O)CC(C)C)C)CCC(=O)O)C(C)C)CC(C)C)CC9=CNC=N9)CO)NC(=O)C(CC(C)C)NC(=O)C(CC2=CNC=N2)NC(=O)C(CCC(=O)N)NC(=O)C(CC(=O)N)NC(=O)C(C(C)C)NC(=O)C(CC2=CC=CC=C2)N)C(=O)NC(C(=O)NC(C(=O)N1)CO)C(C)O)NC(=O)C(CCC(=O)N)NC(=O)C(CCC(=O)O)NC(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)CN,PubChem,CCC(C)C(NC(=O)CN)C(=O)NC(C(=O)NC(CCC(=O)O)C(=O)NC(CCC(N)=O)C(=O)NC1CSSCC2NC(=O)C(C(C)CC)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(CSSCC(NC(=O)C(CC(C)C)NC(=O)C(Cc3c[nH]cn3)NC(=O)C(CCC(N)=O)NC(=O)C(CC(N)=O)NC(=O)C(NC(=O)C(N)Cc3ccccc3)C(C)C)C(=O)NCC(=O)NC(CO)C(=O)NC(Cc3c[nH]cn3)C(=O)NC(CC(C)C)C(=O)NC(C(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(C)C(=O)NC(CC(C)C)C(=O)NC(Cc3ccc(O)cc3)C(=O)NC(CC(C)C)C(=O)NC(C(C)C)C(=O)NC(C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(Cc3ccccc3)C(=O)NC(Cc3ccccc3)C(=O)NC(Cc3ccc(O)cc3)C(=O)NC(C(=O)NC(CC(=O)O)C(=O)NC(CCCCN)C(=O)NC(C(=O)O)C(C)O)C(C)O)CSSCC(C(=O)NC(CC(N)=O)C(=O)O)NC(=O)C(Cc3ccc(O)cc3)NC(=O)C(CC(N)=O)NC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(CCC(N)=O)NC(=O)C(Cc3ccc(O)cc3)NC(=O)C(CC(C)C)NC(=O)C(CO)NC2=O)NC1=O)C(C)C
+BADD_D01167,Interferon alfa-2b,CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2.C(S(=O)(=O)[O-])(I)I.[Na+],PubChem,CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.O=S(=O)([O-])C(I)I.[Na+]
+BADD_D01191,Ipratropium,CC(C)[N+]1(C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3)C,PubChem,CC(C)[N+]1(C)C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2
+BADD_D01201,Isavuconazonium sulfate,CC(C1=NC(=CS1)C2=CC=C(C=C2)C#N)C(CN3C=[N+](C=N3)C(C)OC(=O)N(C)C4=C(C=CC=N4)COC(=O)CNC)(C5=C(C=CC(=C5)F)F)O.OS(=O)(=O)[O-],PubChem,CNCC(=O)OCc1cccnc1N(C)C(=O)OC(C)[n+]1cnn(CC(O)(c2cc(F)ccc2F)C(C)c2nc(-c3ccc(C#N)cc3)cs2)c1.O=S(=O)([O-])O
+BADD_D01205,Isoprenaline,CC(C)NCC(C1=CC(=C(C=C1)O)O)O,PubChem,CC(C)NCC(O)c1ccc(O)c(O)c1
+BADD_D01207,Isoproterenol hydrochloride,CC(C)NCC(C1=CC(=C(C=C1)O)O)O.Cl,PubChem,CC(C)NCC(O)c1ccc(O)c(O)c1.Cl
+BADD_D01211,Isosorbide mononitrate,C1C(C2C(O1)C(CO2)O[N+](=O)[O-])O,PubChem,O=[N+]([O-])OC1COC2C(O)COC12
+BADD_D01223,Ixazomib,B(C(CC(C)C)NC(=O)CNC(=O)C1=C(C=CC(=C1)Cl)Cl)(O)O,PubChem,CC(C)CC(NC(=O)CNC(=O)c1cc(Cl)ccc1Cl)B(O)O
+BADD_D01228,Ketamine,CNC1(CCCCC1=O)C2=CC=CC=C2Cl,PubChem,CNC1(c2ccccc2Cl)CCCCC1=O
+BADD_D01231,Ketoprofen,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,PubChem,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1
+BADD_D01248,Lapatinib,CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl,PubChem,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1
+BADD_D01255,Lercanidipine,CC1=C(C(C(=C(N1)C)C(=O)OC(C)(C)CN(C)CCC(C2=CC=CC=C2)C3=CC=CC=C3)C4=CC(=CC=C4)[N+](=O)[O-])C(=O)OC,PubChem,COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)(C)CN(C)CCC(c2ccccc2)c2ccccc2)C1c1cccc([N+](=O)[O-])c1
+BADD_D01256,Lesinurad,C1CC1C2=CC=C(C3=CC=CC=C23)N4C(=NN=C4Br)SCC(=O)O,PubChem,O=C(O)CSc1nnc(Br)n1-c1ccc(C2CC2)c2ccccc12
+BADD_D01258,Leucovorin,C1C(N(C2=C(N1)N=C(NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O,PubChem,Nc1nc2c(c(=O)[nH]1)N(C=O)C(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2
+BADD_D01267,Levobunolol,CC(C)(C)NCC(COC1=CC=CC2=C1CCCC2=O)O,PubChem,CC(C)(C)NCC(O)COc1cccc2c1CCCC2=O
+BADD_D01269,Levobupivacaine,CCCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C,PubChem,CCCCN1CCCCC1C(=O)Nc1c(C)cccc1C
+BADD_D01271,Levocarnitine,C[N+](C)(C)CC(CC(=O)[O-])O,PubChem,C[N+](C)(C)CC(O)CC(=O)[O-]
+BADD_D01275,Levofloxacin,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,PubChem,CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23
+BADD_D01280,Levomilnacipran hydrochloride,CCN(CC)C(=O)C1(CC1CN)C2=CC=CC=C2.Cl,PubChem,CCN(CC)C(=O)C1(c2ccccc2)CC1CN.Cl
+BADD_D01288,Lidocaine hydrochloride,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C.Cl,PubChem,CCN(CC)CC(=O)Nc1c(C)cccc1C.Cl
+BADD_D01289,Lidocaine hydrochloride monohydrate,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C.O.Cl,PubChem,CCN(CC)CC(=O)Nc1c(C)cccc1C.Cl.O
+BADD_D01310,Lomefloxacin hydrochloride,CCN1C=C(C(=O)C2=CC(=C(C(=C21)F)N3CCNC(C3)C)F)C(=O)O.Cl,PubChem,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21.Cl
+BADD_D01311,Lomitapide,C1CN(CCC1NC(=O)C2=CC=CC=C2C3=CC=C(C=C3)C(F)(F)F)CCCCC4(C5=CC=CC=C5C6=CC=CC=C64)C(=O)NCC(F)(F)F,PubChem,O=C(NC1CCN(CCCCC2(C(=O)NCC(F)(F)F)c3ccccc3-c3ccccc32)CC1)c1ccccc1-c1ccc(C(F)(F)F)cc1
+BADD_D01315,Loperamide hydrochloride,CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4.Cl,PubChem,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1.Cl
+BADD_D01325,Lovastatin,CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC3CC(CC(=O)O3)O)C,PubChem,CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21
+BADD_D01328,Lubiprostone,CCCCC(C1(CCC2C(O1)CC(=O)C2CCCCCCC(=O)O)O)(F)F,PubChem,CCCCC(F)(F)C1(O)CCC2C(CC(=O)C2CCCCCCC(=O)O)O1
+BADD_D01335,Lyxumia,CCC(C)C(C(=O)NC(CCC(=O)O)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(CC(=O)N)C(=O)NCC(=O)NCC(=O)N3CCCC3C(=O)NC(CO)C(=O)NC(CO)C(=O)NCC(=O)NC(C)C(=O)N4CCCC4C(=O)N5CCCC5C(=O)NC(CO)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)N)NC(=O)C(CC6=CC=CC=C6)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCSC)NC(=O)C(CCC(=O)N)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(CC7=CC=CC=C7)NC(=O)C(C(C)O)NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)CNC(=O)C(CC8=CNC=N8)N,PubChem,CCC(C)C(NC(=O)C(Cc1ccccc1)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(NC(=O)C(C)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCSC)NC(=O)C(CCC(N)=O)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(NC(=O)C(Cc1ccccc1)NC(=O)C(NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)CNC(=O)C(N)Cc1c[nH]cn1)C(C)O)C(C)O)C(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(CC(N)=O)C(=O)NCC(=O)NCC(=O)N1CCCC1C(=O)NC(CO)C(=O)NC(CO)C(=O)NCC(=O)NC(C)C(=O)N1CCCC1C(=O)N1CCCC1C(=O)NC(CO)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(N)=O
+BADD_D01341,Magnesium citrate,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Mg+2].[Mg+2].[Mg+2],PubChem,O=C([O-])CC(O)(CC(=O)[O-])C(=O)[O-].O=C([O-])CC(O)(CC(=O)[O-])C(=O)[O-].[Mg+2].[Mg+2].[Mg+2]
+BADD_D01348,Mangafodipir trisodium,[H+].[H+].[H+].CC1=NC=C(C(=C1[O-])CN(CCN(CC2=C(C(=NC=C2COP(=O)([O-])[O-])C)[O-])CC(=O)[O-])CC(=O)[O-])COP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Mn+2],PubChem,Cc1ncc(COP(=O)([O-])[O-])c(CN(CCN(CC(=O)[O-])Cc2c(COP(=O)([O-])[O-])cnc(C)c2[O-])CC(=O)[O-])c1[O-].[H+].[H+].[H+].[Mn+2].[Na+].[Na+].[Na+]
+BADD_D01353,Mebendazole,COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CC=C3,PubChem,COC(=O)Nc1nc2ccc(C(=O)c3ccccc3)cc2[nH]1
+BADD_D01354,Mebeverine,CCN(CCCCOC(=O)C1=CC(=C(C=C1)OC)OC)C(C)CC2=CC=C(C=C2)OC,PubChem,CCN(CCCCOC(=O)c1ccc(OC)c(OC)c1)C(C)Cc1ccc(OC)cc1
+BADD_D01370,Mefloquine hydrochloride,C1CCNC(C1)C(C2=CC(=NC3=C2C=CC=C3C(F)(F)F)C(F)(F)F)O,PubChem,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1
+BADD_D01373,Melatonin,CC(=O)NCCC1=CNC2=C1C=C(C=C2)OC,PubChem,COc1ccc2[nH]cc(CCNC(C)=O)c2c1
+BADD_D01376,Melphalan,C1=CC(=CC=C1CC(C(=O)O)N)N(CCCl)CCCl,PubChem,NC(Cc1ccc(N(CCCl)CCCl)cc1)C(=O)O
+BADD_D01404,Methacholine chloride,CC(C[N+](C)(C)C)OC(=O)C.[Cl-],PubChem,CC(=O)OC(C)C[N+](C)(C)C.[Cl-]
+BADD_D01417,Methohexital sodium,CCC#CC(C)C1(C(=O)N=C(N(C1=O)C)[O-])CC=C.[Na+],PubChem,C=CCC1(C(C)C#CCC)C(=O)N=C([O-])N(C)C1=O.[Na+]
+BADD_D01424,Methyl aminolevulinate hydrochloride,COC(=O)CCC(=O)CN.Cl,PubChem,COC(=O)CCC(=O)CN.Cl
+BADD_D01430,Methylnaltrexone bromide,C[N+]1(CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O)CC6CC6.[Br-],PubChem,C[N+]1(CC2CC2)CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5.[Br-]
+BADD_D01438,Methyltestosterone,CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC4(C)O)C,PubChem,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC2(C)O
+BADD_D01452,Mexiletine,CC1=C(C(=CC=C1)C)OCC(C)N,PubChem,Cc1cccc(C)c1OCC(C)N
+BADD_D01468,Milrinone lactate,CC1=C(C=C(C(=O)N1)C#N)C2=CC=NC=C2.CC(C(=O)O)O,PubChem,CC(O)C(=O)O.Cc1[nH]c(=O)c(C#N)cc1-c1ccncc1
+BADD_D01472,Minocycline hydrochloride,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C.Cl,PubChem,CN(C)c1ccc(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)=C(O)C3(O)C(=O)C1=C2O.Cl
+BADD_D01477,Misoprostol,CCCCC(C)(CC=CC1C(CC(=O)C1CCCCCCC(=O)OC)O)O,PubChem,CCCCC(C)(O)CC=CC1C(O)CC(=O)C1CCCCCCC(=O)OC
+BADD_D01487,Molindone,CCC1=C(NC2=C1C(=O)C(CC2)CN3CCOCC3)C,PubChem,CCc1c(C)[nH]c2c1C(=O)C(CN1CCOCC1)CC2
+BADD_D01492,Mometasone furoate monohydrate,CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CCl)OC(=O)C5=CC=CO5)C)O)Cl)C.O,PubChem,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(OC(=O)c1ccco1)C(=O)CCl.O
+BADD_D01493,Monobenzone,C1=CC=C(C=C1)COC2=CC=C(C=C2)O,PubChem,Oc1ccc(OCc2ccccc2)cc1
+BADD_D01497,Montelukast sodium,CC(C)(C1=CC=CC=C1CCC(C2=CC=CC(=C2)C=CC3=NC4=C(C=CC(=C4)Cl)C=C3)SCC5(CC5)CC(=O)[O-])O.[Na+],PubChem,CC(C)(O)c1ccccc1CCC(SCC1(CC(=O)[O-])CC1)c1cccc(C=Cc2ccc3ccc(Cl)cc3n2)c1.[Na+]
+BADD_D01518,Naftifine hydrochloride,CN(CC=CC1=CC=CC=C1)CC2=CC=CC3=CC=CC=C32.Cl,PubChem,CN(CC=Cc1ccccc1)Cc1cccc2ccccc12.Cl
+BADD_D01535,Naratriptan,CNS(=O)(=O)CCC1=CC2=C(C=C1)NC=C2C3CCN(CC3)C,PubChem,CNS(=O)(=O)CCc1ccc2[nH]cc(C3CCN(C)CC3)c2c1
+BADD_D01538,Natamycin,CC1CC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(CC3C(O3)C=CC(=O)O1)O)O)O)C(=O)O)OC4C(C(C(C(O4)C)O)N)O,PubChem,CC1CC=CC=CC=CC=CC(OC2OC(C)C(O)C(N)C2O)CC2OC(O)(CC(O)CC3OC3C=CC(=O)O1)CC(O)C2C(=O)O
+BADD_D01539,Nateglinide,CC(C)C1CCC(CC1)C(=O)NC(CC2=CC=CC=C2)C(=O)O,PubChem,CC(C)C1CCC(C(=O)NC(Cc2ccccc2)C(=O)O)CC1
+BADD_D01544,Nedocromil,CCCC1=C2C(=CC3=C1OC(=CC3=O)C(=O)O)C(=O)C=C(N2CC)C(=O)O,PubChem,CCCc1c2oc(C(=O)O)cc(=O)c2cc2c(=O)cc(C(=O)O)n(CC)c12
+BADD_D01559,Niacin,C1=CC(=CN=C1)C(=O)O,PubChem,O=C(O)c1cccnc1
+BADD_D01567,Nilotinib,CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(F)(F)F)N3C=C(N=C3)C)NC4=NC=CC(=N4)C5=CN=CC=C5,PubChem,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1
+BADD_D01569,Nimodipine,CC1=C(C(C(=C(N1)C)C(=O)OC(C)C)C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OCCOC,PubChem,COCCOC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1
+BADD_D01585,Norethindrone,CC12CCC3C(C1CCC2(C#C)O)CCC4=CC(=O)CCC34,PubChem,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21C
+BADD_D01595,Octreotide acetate,CC(C1C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=CC=C4)NC(=O)C(CC5=CC=CC=C5)N)C(=O)NC(CO)C(C)O)O.CC(=O)O,PubChem,CC(=O)O.CC(O)C(CO)NC(=O)C1CSSCC(NC(=O)C(N)Cc2ccccc2)C(=O)NC(Cc2ccccc2)C(=O)NC(Cc2c[nH]c3ccccc23)C(=O)NC(CCCCN)C(=O)NC(C(C)O)C(=O)N1
+BADD_D01613,Omega-3-fatty acids,CCC=CCC=CCC=CCCCCCCCC(=O)O.CCC=CCC=CCC=CCC=CCC=CCCCC(=O)O.CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)O,PubChem,CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)O.CCC=CCC=CCC=CCC=CCC=CCCCC(=O)O.CCC=CCC=CCC=CCCCCCCCC(=O)O
+BADD_D01618,Ondansetron hydrochloride,CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C.Cl,PubChem,Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O.Cl
+BADD_D01629,Osimertinib,CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC,PubChem,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C
+BADD_D01632,Oxacillin sodium,CC1=C(C(=NO1)C2=CC=CC=C2)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)[O-].[Na+],PubChem,Cc1onc(-c2ccccc2)c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)[O-].[Na+]
+BADD_D01641,Oxprenolol,CC(C)NCC(COC1=CC=CC=C1OCC=C)O,PubChem,C=CCOc1ccccc1OCC(O)CNC(C)C
+BADD_D01643,Oxybutynin,CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O,PubChem,CCN(CC)CC#CCOC(=O)C(O)(c1ccccc1)C1CCCCC1
+BADD_D01651,Oxytetracycline hydrochloride,CC1(C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O.Cl,PubChem,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3C(O)C12.Cl
+BADD_D01656,Paliperidone,CC1=C(C(=O)N2CCCC(C2=N1)O)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F,PubChem,Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2O
+BADD_D01659,Palonosetron,C1CC2CN(C(=O)C3=CC=CC(=C23)C1)C4CN5CCC4CC5,PubChem,O=C1c2cccc3c2C(CCC3)CN1C1CN2CCC1CC2
+BADD_D01688,Pazopanib hydrochloride,CC1=C(C=C(C=C1)NC2=NC=CC(=N2)N(C)C3=CC4=NN(C(=C4C=C3)C)C)S(=O)(=O)N.Cl,PubChem,Cc1ccc(Nc2nccc(N(C)c3ccc4c(C)n(C)nc4c3)n2)cc1S(N)(=O)=O.Cl
+BADD_D01710,Penicillin g,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C,PubChem,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O
+BADD_D01714,Penicillin g sodium,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)[O-])C.[Na+],PubChem,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)[O-].[Na+]
+BADD_D01719,Pentazocine hydrochloride,CC1C2CC3=C(C1(CCN2CC=C(C)C)C)C=C(C=C3)O.Cl,PubChem,CC(C)=CCN1CCC2(C)c3cc(O)ccc3CC1C2C.Cl
+BADD_D01760,Phenylbutyric acid,C1=CC=C(C=C1)CCCC(=O)O,PubChem,O=C(O)CCCc1ccccc1
+BADD_D01765,Phenytoin,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3,PubChem,O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1
+BADD_D01784,Piroxicam,CN1C(=C(C2=CC=CC=C2S1(=O)=O)O)C(=O)NC3=CC=CC=N3,PubChem,CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O
+BADD_D01789,Plerixafor octahydrochloride,C1CNCCNCCCN(CCNC1)CC2=CC=C(C=C2)CN3CCCNCCNCCCNCC3.Cl.Cl.Cl.Cl.Cl.Cl.Cl.Cl,PubChem,Cl.Cl.Cl.Cl.Cl.Cl.Cl.Cl.c1cc(CN2CCCNCCNCCCNCC2)ccc1CN1CCCNCCNCCCNCC1
+BADD_D01826,Praziquantel,C1CCC(CC1)C(=O)N2CC3C4=CC=CC=C4CCN3C(=O)C2,PubChem,O=C(C1CCCCC1)N1CC(=O)N2CCc3ccccc3C2C1
+BADD_D01827,Prazosin,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4=CC=CO4)N)OC,PubChem,COc1cc2nc(N3CCN(C(=O)c4ccco4)CC3)nc(N)c2cc1OC
+BADD_D01830,Prednicarbate,CCC(=O)OCC(=O)C1(CCC2C1(CC(C3C2CCC4=CC(=O)C=CC34C)O)C)OC(=O)OCC,PubChem,CCOC(=O)OC1(C(=O)COC(=O)CC)CCC2C3CCC4=CC(=O)C=CC4(C)C3C(O)CC21C
+BADD_D01843,Procainamide hydrochloride,CCN(CC)CCNC(=O)C1=CC=C(C=C1)N.Cl,PubChem,CCN(CC)CCNC(=O)c1ccc(N)cc1.Cl
+BADD_D01844,Procaine,CCN(CC)CCOC(=O)C1=CC=C(C=C1)N,PubChem,CCN(CC)CCOC(=O)c1ccc(N)cc1
+BADD_D01854,Promethazine,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C,PubChem,CC(CN1c2ccccc2Sc2ccccc21)N(C)C
+BADD_D01860,Propantheline,CC(C)[N+](C)(CCOC(=O)C1C2=CC=CC=C2OC3=CC=CC=C13)C(C)C,PubChem,CC(C)[N+](C)(CCOC(=O)C1c2ccccc2Oc2ccccc21)C(C)C
+BADD_D01861,Propantheline bromide,CC(C)[N+](C)(CCOC(=O)C1C2=CC=CC=C2OC3=CC=CC=C13)C(C)C.[Br-],PubChem,CC(C)[N+](C)(CCOC(=O)C1c2ccccc2Oc2ccccc21)C(C)C.[Br-]
+BADD_D01872,Protriptyline,CNCCCC1C2=CC=CC=C2C=CC3=CC=CC=C13,PubChem,CNCCCC1c2ccccc2C=Cc2ccccc21
+BADD_D01875,Prussian blue,[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Fe+2].[Fe+2].[Fe+2].[Fe+3].[Fe+3].[Fe+3].[Fe+3],PubChem,[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Fe+2].[Fe+2].[Fe+2].[Fe+3].[Fe+3].[Fe+3].[Fe+3]
+BADD_D01878,Pyrantel,CN1CCCN=C1C=CC2=CC=CS2,PubChem,CN1CCCN=C1C=Cc1cccs1
+BADD_D01888,Quetiapine,C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42,PubChem,OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1
+BADD_D01889,Quetiapine fumarate,C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42.C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42.C(=CC(=O)O)C(=O)O,PubChem,O=C(O)C=CC(=O)O.OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1.OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1
+BADD_D01890,Quinapril,CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CC3=CC=CC=C3CC2C(=O)O,PubChem,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1Cc2ccccc2CC1C(=O)O
+BADD_D01903,Raloxifene,C1CCN(CC1)CCOC2=CC=C(C=C2)C(=O)C3=C(SC4=C3C=CC(=C4)O)C5=CC=C(C=C5)O,PubChem,O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12
+BADD_D01928,Retapamulin,CC1CCC23CCC(=O)C2C1(C(CC(C(C3C)O)(C)C=C)OC(=O)CSC4CC5CCC(C4)N5C)C,PubChem,C=CC1(C)CC(OC(=O)CSC2CC3CCC(C2)N3C)C2(C)C(C)CCC3(CCC(=O)C32)C(C)C1O
+BADD_D01958,Rizatriptan benzoate,CN(C)CCC1=CNC2=C1C=C(C=C2)CN3C=NC=N3.C1=CC=C(C=C1)C(=O)O,PubChem,CN(C)CCc1c[nH]c2ccc(Cn3cncn3)cc12.O=C(O)c1ccccc1
+BADD_D01971,Rosuvastatin,CC(C)C1=NC(=NC(=C1C=CC(CC(CC(=O)O)O)O)C2=CC=C(C=C2)F)N(C)S(=O)(=O)C,PubChem,CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1C=CC(O)CC(O)CC(=O)O
+BADD_D01972,Rosuvastatin calcium,CC(C)C1=NC(=NC(=C1C=CC(CC(CC(=O)[O-])O)O)C2=CC=C(C=C2)F)N(C)S(=O)(=O)C.CC(C)C1=NC(=NC(=C1C=CC(CC(CC(=O)[O-])O)O)C2=CC=C(C=C2)F)N(C)S(=O)(=O)C.[Ca+2],PubChem,CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1C=CC(O)CC(O)CC(=O)[O-].CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1C=CC(O)CC(O)CC(=O)[O-].[Ca+2]
+BADD_D01985,Samarium sm-153 lexidronam,C(CN(CP(=O)([O-])[O-])CP(=O)([O-])[O-])N(CP(=O)([O-])[O-])CP(=O)([O-])[O-].[Sm+3],PubChem,O=P([O-])([O-])CN(CCN(CP(=O)([O-])[O-])CP(=O)([O-])[O-])CP(=O)([O-])[O-].[Sm+3]
+BADD_D01986,Samarium sm-153 lexidronam pentasodium,C(CN(CP(=O)([O-])[O-])CP(=O)([O-])[O-])N(CP(=O)([O-])[O-])CP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Sm+3],PubChem,O=P([O-])([O-])CN(CCN(CP(=O)([O-])[O-])CP(=O)([O-])[O-])CP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Sm+3]
+BADD_D01987,Sapropterin,CC(C(C1CNC2=C(N1)C(=O)NC(=N2)N)O)O,PubChem,CC(O)C(O)C1CNc2nc(N)[nH]c(=O)c2N1
+BADD_D01998,Secobarbital sodium,CCCC(C)C1(C(=O)NC(=O)[N-]C1=O)CC=C.[Na+],PubChem,C=CCC1(C(C)CCC)C(=O)[N-]C(=O)NC1=O.[Na+]
+BADD_D01999,Secretin,CC(C)CC(C(=O)NC(C(C)C)C(=O)O)NC(=O)CNC(=O)C(CCC(=O)N)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCC(=O)N)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(C)NC(=O)C(CO)NC(=O)C(CC(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CCC(=O)O)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(CC1=CC=CC=C1)NC(=O)C(C(C)O)NC(=O)CNC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(CC2=NC=CN2)N,PubChem,CC(C)CC(NC(=O)CNC(=O)C(CCC(N)=O)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCC(N)=O)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(C)NC(=O)C(CO)NC(=O)C(CC(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CCC(=O)O)NC(=O)C(CO)NC(=O)C(NC(=O)C(Cc1ccccc1)NC(=O)C(NC(=O)CNC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(N)Cc1ncc[nH]1)C(C)O)C(C)O)C(=O)NC(C(=O)O)C(C)C
+BADD_D02009,Sertaconazole nitrate,C1=CC2=C(C(=C1)Cl)SC=C2COC(CN3C=CN=C3)C4=C(C=C(C=C4)Cl)Cl.[N+](=O)(O)[O-],PubChem,Clc1ccc(C(Cn2ccnc2)OCc2csc3c(Cl)cccc23)c(Cl)c1.O=[N+]([O-])O
+BADD_D02013,Sevelamer carbonate,C=CCN.C1C(O1)CCl.C(=O)(O)O,PubChem,C=CCN.ClCC1CO1.O=C(O)O
+BADD_D02016,Sibutramine,CC(C)CC(C1(CCC1)C2=CC=C(C=C2)Cl)N(C)C,PubChem,CC(C)CC(N(C)C)C1(c2ccc(Cl)cc2)CCC1
+BADD_D02048,Sodium phenylbutyrate,C1=CC=C(C=C1)CCCC(=O)[O-].[Na+],PubChem,O=C([O-])CCCc1ccccc1.[Na+]
+BADD_D02053,Sofosbuvir,CC(C)OC(=O)C(C)NP(=O)(OCC1C(C(C(O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3,PubChem,CC(C)OC(=O)C(C)NP(=O)(OCC1OC(n2ccc(=O)[nH]c2=O)C(C)(F)C1O)Oc1ccccc1
+BADD_D02059,Sorbitol,C(C(C(C(C(CO)O)O)O)O)O,PubChem,OCC(O)C(O)C(O)C(O)CO
+BADD_D02072,Streptomycin sulfate,CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O)O.CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O)O.OS(=O)(=O)O.OS(=O)(=O)O.OS(=O)(=O)O,PubChem,CNC1C(OC2C(OC3C(O)C(O)C(N=C(N)N)C(O)C3N=C(N)N)OC(C)C2(O)C=O)OC(CO)C(O)C1O.CNC1C(OC2C(OC3C(O)C(O)C(N=C(N)N)C(O)C3N=C(N)N)OC(C)C2(O)C=O)OC(CO)C(O)C1O.O=S(=O)(O)O.O=S(=O)(O)O.O=S(=O)(O)O
+BADD_D02083,Sufentanil citrate,CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC3=CC=CS3)COC.C(C(=O)O)C(CC(=O)O)(C(=O)O)O,PubChem,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1.O=C(O)CC(O)(CC(=O)O)C(=O)O
+BADD_D02100,Sunitinib,CCN(CC)CCNC(=O)C1=C(NC(=C1C)C=C2C3=C(C=CC(=C3)F)NC2=O)C,PubChem,CCN(CC)CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c1C
+BADD_D02118,Tasimelteon,CCC(=O)NCC1CC1C2=C3CCOC3=CC=C2,PubChem,CCC(=O)NCC1CC1c1cccc2c1CCO2
+BADD_D02130,Technetium tc-99m oxidronate,C(O)(P(=O)(O)O)P(=O)(O)O.[Tc],PubChem,O=P(O)(O)C(O)P(=O)(O)O.[Tc]
+BADD_D02139,Tegaserod maleate,CCCCCN=C(N)NN=CC1=CNC2=C1C=C(C=C2)OC.C(=CC(=O)O)C(=O)O,PubChem,CCCCCN=C(N)NN=Cc1c[nH]c2ccc(OC)cc12.O=C(O)C=CC(=O)O
+BADD_D02145,Telbivudine,CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)O,PubChem,Cc1cn(C2CC(O)C(CO)O2)c(=O)[nH]c1=O
+BADD_D02147,Telmisartan,CCCC1=NC2=C(N1CC3=CC=C(C=C3)C4=CC=CC=C4C(=O)O)C=C(C=C2C)C5=NC6=CC=CC=C6N5C,PubChem,CCCc1nc2c(C)cc(-c3nc4ccccc4n3C)cc2n1Cc1ccc(-c2ccccc2C(=O)O)cc1
+BADD_D02160,Terbinafine,CC(C)(C)C#CC=CCN(C)CC1=CC=CC2=CC=CC=C21,PubChem,CN(CC=CC#CC(C)(C)C)Cc1cccc2ccccc12
+BADD_D02168,Tesamorelin,CCC=CCC(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(C)C(=O)NC(CC(=O)O)C(=O)NC(C)C(=O)NC(C(C)CC)C(=O)NC(CC2=CC=CC=C2)C(=O)NC(C(C)O)C(=O)NC(CC(=O)N)C(=O)NC(CO)C(=O)NC(CC3=CC=C(C=C3)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NCC(=O)NC(CCC(=O)N)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)N)C(=O)NC(CC(=O)O)C(=O)NC(C(C)CC)C(=O)NC(CCSC)C(=O)NC(CO)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)N)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)NC(CC(=O)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(C)C)C(=O)N,PubChem,CCC=CCC(=O)NC(Cc1ccc(O)cc1)C(=O)NC(C)C(=O)NC(CC(=O)O)C(=O)NC(C)C(=O)NC(C(=O)NC(Cc1ccccc1)C(=O)NC(C(=O)NC(CC(N)=O)C(=O)NC(CO)C(=O)NC(Cc1ccc(O)cc1)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(C(=O)NC(CC(C)C)C(=O)NCC(=O)NC(CCC(N)=O)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCC(N)=O)C(=O)NC(CC(=O)O)C(=O)NC(C(=O)NC(CCSC)C(=O)NC(CO)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(N)=O)C(=O)NC(CCC(N)=O)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)NC(CC(N)=O)C(=O)NC(CCC(N)=O)C(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(C)C)C(N)=O)C(C)CC)C(C)C)C(C)O)C(C)CC
+BADD_D02185,Tetrahydrobiopterin,CC(C(C1CNC2=C(N1)C(=O)NC(=N2)N)O)O,PubChem,CC(O)C(O)C1CNc2nc(N)[nH]c(=O)c2N1
+BADD_D02186,Tetrahydrozoline hydrochloride,C1CC(C2=CC=CC=C2C1)C3=NCCN3.Cl,PubChem,Cl.c1ccc2c(c1)CCCC2C1=NCCN1
+BADD_D02199,Thioguanine,C1=NC2=C(N1)C(=S)N=C(N2)N,PubChem,Nc1nc(=S)c2[nH]cnc2[nH]1
+BADD_D02220,Timolol maleate,CC(C)(C)NCC(COC1=NSN=C1N2CCOCC2)O.C(=CC(=O)O)C(=O)O,PubChem,CC(C)(C)NCC(O)COc1nsnc1N1CCOCC1.O=C(O)C=CC(=O)O
+BADD_D02223,Tiopronin,CC(C(=O)NCC(=O)O)S,PubChem,CC(S)C(=O)NCC(=O)O
+BADD_D02224,Tiotropium bromide,C[N+]1(C2CC(CC1C3C2O3)OC(=O)C(C4=CC=CS4)(C5=CC=CS5)O)C.[Br-],PubChem,C[N+]1(C)C2CC(OC(=O)C(O)(c3cccs3)c3cccs3)CC1C1OC12.[Br-]
+BADD_D02229,Tirofiban hydrochloride,CCCCS(=O)(=O)NC(CC1=CC=C(C=C1)OCCCCC2CCNCC2)C(=O)O.O.Cl,PubChem,CCCCS(=O)(=O)NC(Cc1ccc(OCCCCC2CCNCC2)cc1)C(=O)O.Cl.O
+BADD_D02231,Tizanidine hydrochloride,C1CN=C(N1)NC2=C(C=CC3=NSN=C32)Cl.Cl,PubChem,Cl.Clc1ccc2nsnc2c1NC1=NCCN1
+BADD_D02236,Tofacitinib,CC1CCN(CC1N(C)C2=NC=NC3=C2C=CN3)C(=O)CC#N,PubChem,CC1CCN(C(=O)CC#N)CC1N(C)c1ncnc2[nH]ccc12
+BADD_D02238,Tolazamide,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN2CCCCCC2,PubChem,Cc1ccc(S(=O)(=O)NC(=O)NN2CCCCCC2)cc1
+BADD_D02241,Tolcapone,CC1=CC=C(C=C1)C(=O)C2=CC(=C(C(=C2)O)O)[N+](=O)[O-],PubChem,Cc1ccc(C(=O)c2cc(O)c(O)c([N+](=O)[O-])c2)cc1
+BADD_D02247,Topiramate,CC1(OC2COC3(C(C2O1)OC(O3)(C)C)COS(=O)(=O)N)C,PubChem,CC1(C)OC2COC3(COS(N)(=O)=O)OC(C)(C)OC3C2O1
+BADD_D02254,Tramadol,CN(C)CC1CCCCC1(C2=CC(=CC=C2)OC)O,PubChem,COc1cccc(C2(O)CCCCC2CN(C)C)c1
+BADD_D02267,Trazodone hydrochloride,C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl.Cl,PubChem,Cl.O=c1n(CCCN2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12
+BADD_D02285,Trihexyphenidyl hydrochloride,C1CCC(CC1)C(CCN2CCCCC2)(C3=CC=CC=C3)O.Cl,PubChem,Cl.OC(CCN1CCCCC1)(c1ccccc1)C1CCCCC1
+BADD_D02296,Triprolidine hydrochloride,CC1=CC=C(C=C1)C(=CCN2CCCC2)C3=CC=CC=N3.Cl,PubChem,Cc1ccc(C(=CCN2CCCC2)c2ccccn2)cc1.Cl
+BADD_D02302,Tromethamine,C(C(CO)(CO)N)O,PubChem,NC(CO)(CO)CO
+BADD_D02308,Trovafloxacin mesylate,CS(=O)(=O)O.C1C2C(C2N)CN1C3=C(C=C4C(=O)C(=CN(C4=N3)C5=C(C=C(C=C5)F)F)C(=O)O)F,PubChem,CS(=O)(=O)O.NC1C2CN(c3nc4c(cc3F)c(=O)c(C(=O)O)cn4-c3ccc(F)cc3F)CC12
+BADD_D02324,Valacyclovir hydrochloride,CC(C)C(C(=O)OCCOCN1C=NC2=C1N=C(NC2=O)N)N.Cl,PubChem,CC(C)C(N)C(=O)OCCOCn1cnc2c(=O)[nH]c(N)nc21.Cl
+BADD_D02349,Verapamil hydrochloride,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC.Cl,PubChem,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC.Cl
+BADD_D02363,Vinorelbine,CCC1=CC2CC(C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC,PubChem,CCC1=CC2CN(C1)Cc1c([nH]c3ccccc13)C(C(=O)OC)(c1cc3c(cc1OC)N(C)C1C(O)(C(=O)OC)C(OC(C)=O)C4(CC)C=CCN5CCC31C54)C2
+BADD_D02374,Warfarin sodium,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)[O-].[Na+],PubChem,CC(=O)CC(c1ccccc1)c1c([O-])c2ccccc2oc1=O.[Na+]
+BADD_D02383,Zidovudine,CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=[N-],PubChem,Cc1cn(C2CC(N=[N+]=[N-])C(CO)O2)c(=O)[nH]c1=O
+BADD_D02385,Zinc,[Zn],PubChem,[Zn]
+BADD_D02397,Zopiclone,CN1CCN(CC1)C(=O)OC2C3=NC=CN=C3C(=O)N2C4=NC=C(C=C4)Cl,PubChem,CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1
+BADD_D02434,Cinacalcet,CC(C1=CC=CC2=CC=CC=C21)NCCCC3=CC(=CC=C3)C(F)(F)F,PubChem,CC(NCCCc1cccc(C(F)(F)F)c1)c1cccc2ccccc12
+BADD_D02453,Midostaurin,CC12C(C(CC(O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)N(C)C(=O)C9=CC=CC=C9)OC,PubChem,COC1C(N(C)C(=O)c2ccccc2)CC2OC1(C)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4
+BADD_D02457,Dexmethylphenidate,COC(=O)C(C1CCCCN1)C2=CC=CC=C2,PubChem,COC(=O)C(c1ccccc1)C1CCCCN1
+BADD_D02464,Fingolimod,CCCCCCCCC1=CC=C(C=C1)CCC(CO)(CO)N,PubChem,CCCCCCCCc1ccc(CCC(N)(CO)CO)cc1
+BADD_D02465,Aclidinium,C1C[N+]2(CCC1C(C2)OC(=O)C(C3=CC=CS3)(C4=CC=CS4)O)CCCOC5=CC=CC=C5,PubChem,O=C(OC1C[N+]2(CCCOc3ccccc3)CCC1CC2)C(O)(c1cccs1)c1cccs1
+BADD_D02481,Naldemedine,CC(C)(C1=NC(=NO1)C2=CC=CC=C2)NC(=O)C3=C(C4C56CCN(C(C5(C3)O)CC7=C6C(=C(C=C7)O)O4)CC8CC8)O,PubChem,CC(C)(NC(=O)C1=C(O)C2Oc3c(O)ccc4c3C23CCN(CC2CC2)C(C4)C3(O)C1)c1nc(-c2ccccc2)no1
+BADD_D02485,Talazoparib,CN1C(=NC=N1)C2C(NC3=CC(=CC4=C3C2=NNC4=O)F)C5=CC=C(C=C5)F,PubChem,Cn1ncnc1C1c2n[nH]c(=O)c3cc(F)cc(c23)NC1c1ccc(F)cc1
+BADD_D02491,Valbenazine,CC(C)CC1CN2CCC3=CC(=C(C=C3C2CC1OC(=O)C(C(C)C)N)OC)OC,PubChem,COc1cc2c(cc1OC)C1CC(OC(=O)C(N)C(C)C)C(CC(C)C)CN1CC2
+BADD_D02492,Deflazacort,CC1=NC2(C(O1)CC3C2(CC(C4C3CCC5=CC(=O)C=CC45C)O)C)C(=O)COC(=O)C,PubChem,CC(=O)OCC(=O)C12N=C(C)OC1CC1C3CCC4=CC(=O)C=CC4(C)C3C(O)CC12C
+BADD_D02501,Sarecycline,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)CN(C)OC,PubChem,CON(C)Cc1ccc(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)=C(O)C3(O)C(=O)C1=C2O
+BADD_D02508,Edaravone,CC1=NN(C(=O)C1)C2=CC=CC=C2,PubChem,CC1=NN(c2ccccc2)C(=O)C1
+BADD_D02517,Enasidenib,CC(C)(CNC1=NC(=NC(=N1)C2=NC(=CC=C2)C(F)(F)F)NC3=CC(=NC=C3)C(F)(F)F)O,PubChem,CC(C)(O)CNc1nc(Nc2ccnc(C(F)(F)F)c2)nc(-c2cccc(C(F)(F)F)n2)n1
+BADD_D02526,Larotrectinib,C1CC(N(C1)C2=NC3=C(C=NN3C=C2)NC(=O)N4CCC(C4)O)C5=C(C=CC(=C5)F)F,PubChem,O=C(Nc1cnn2ccc(N3CCCC3c3cc(F)ccc3F)nc12)N1CCC(O)C1
+BADD_D02547,Daridorexant,CC1=C(C=CC2=C1N=C(N2)C3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl,PubChem,COc1ccc(-n2nccn2)c(C(=O)N2CCCC2(C)c2nc3c(C)c(Cl)ccc3[nH]2)c1
+BADD_D02548,Darolutamide,CC(CN1C=CC(=N1)C2=CC(=C(C=C2)C#N)Cl)NC(=O)C3=NNC(=C3)C(C)O,PubChem,CC(Cn1ccc(-c2ccc(C#N)c(Cl)c2)n1)NC(=O)c1cc(C(C)O)[nH]n1
+BADD_D02578,Osilodrostat,C1CC2=CN=CN2C1C3=C(C=C(C=C3)C#N)F,PubChem,N#Cc1ccc(C2CCc3cncn32)c(F)c1
+BADD_D02583,Pitolisant,C1CCN(CC1)CCCOCCCC2=CC=C(C=C2)Cl,PubChem,Clc1ccc(CCCOCCCN2CCCCC2)cc1
+BADD_D02594,Selumetinib,CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)Cl)C(=O)NOCCO,PubChem,Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21
+BADD_D02605,Vericiguat,COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N,PubChem,COC(=O)Nc1c(N)nc(-c2nn(Cc3ccccc3F)c3ncc(F)cc23)nc1N
+BADD_D02606,Vibegron,C1CC(NC1CC2=CC=C(C=C2)NC(=O)C3CCC4=NC=CC(=O)N34)C(C5=CC=CC=C5)O,PubChem,O=C(Nc1ccc(CC2CCC(C(O)c3ccccc3)N2)cc1)C1CCc2nccc(=O)n21
+BADD_D02617,Cephalothin,CC(=O)OCC1=C(N2C(C(C2=O)NC(=O)CC3=CC=CS3)SC1)C(=O)O,PubChem,CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)Cc3cccs3)C2SC1
+BADD_D02623,Hydrogen peroxide,OO,PubChem,OO
